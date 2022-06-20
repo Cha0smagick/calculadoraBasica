@@ -346,7 +346,7 @@ public class CalculadoraBasica extends javax.swing.JFrame {
              case "/": 
                  if (this.numerodos==0)
                  {
-                 this.pantalla.setText("no se divide en cero saramamabiche");
+                 this.pantalla.setText("no se divide en cero saramamabiches);
                  }
                  else{
                  this.pantalla.setText(sincero(this.numerouno/this.numerodos));
